@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body {
+
+  text-align: center;
+	font-size: 32px;
+
+
+	font-family: 'Lobster', cursive;
+  	position: fixed;
+  	top: 50%;
+  	left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  background-image: url("http://orig07.deviantart.net/b325/f/2008/284/3/8/lonely_tree_for_hdtv_by_phoenix1981.jpg");
+}
+
+#newtab{
+
+}
+
+#socialt {
+  display: inline-block;
+}
+
+#video {
+  display: inline-block;
+}
+
+#annat {
+  display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+	color: #fff;
+    text-decoration: none;
+}
+
+/* allt ska se cleant ut. */
